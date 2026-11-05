@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Web Page</title>
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to My Sample Page</h1>
+        <p>This is a basic template demonstrating essential HTML elements.</p>
+    </header>
+
+    <hr>
+
+    <!-- Main Content Section -->
+    <main>
+        <!-- Text Formatting -->
+        <section>
+            <h2>About HTML</h2>
+            <p>HTML stands for <strong>HyperText Markup Language</strong>. It structures the web page layouts you see daily. You can add <em>emphasis</em> or make text <b>bold</b> easily.</p>
+            <p>Learn more by visiting the official <a href="https://w3.org" target="_blank">W3C website</a>.</p>
+        </section>
+
+        <!-- Lists Example -->
+        <section>
+            <h3>Core Web Technologies</h3>
+            <ul>
+                <li>HTML (Structure)</li>
+                <li>CSS (Styling)</li>
+                <li>JavaScript (Behavior)</li>
+            </ul>
+        </section>
+
+        <!-- Table Example -->
+        <section>
+            <h3>Simple Data Table</h3>
+            <table border="1" cellpadding="8" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Language</th>
+                        <th>Type</th>
+                        <th>Standard File Extension</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>HTML</td>
+                        <td>Markup</td>
+                        <td>.html</td>
+                    </tr>
+                    <tr>
+                        <td>CSS</td>
+                        <td>Stylesheet</td>
+                        <td>.css</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <hr>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2026 Sample Page Blueprint. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
